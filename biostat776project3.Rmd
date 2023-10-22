@@ -338,7 +338,7 @@ print(graph7)
 
 ```
 
-Overtime, Taylor Swift's album have change drastically. They went from a positive context to a negative context with a matter of 4 years. Also, her album sales have been affected by this drastic change. She went from making over 5 million per album to less than 4 millions starting in 2017.
+Overtime, Taylor Swift's albums have change drastically. They went from a positive context to a negative context with a matter of 4 years. Also, her album sales have been affected by this drastic change. She went from making over 5 million per album to less than 4 millions starting in 2017.
 
 
 ```{r}
